@@ -1,1 +1,1 @@
-# python-fundamentos
+# Estudando fundamentos do python e resolvendo exercícios.
